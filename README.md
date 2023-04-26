@@ -31,8 +31,8 @@ Chave primária id , chave estrangeira da tabela contato que é passando pelo id
 H2 database 
 
 #### Funções:
-Listar Contatos - get 
-Listar por Id - get
-Cadastrar - post 
-Alterar - Put 
-Excluir - delete
+Listar Contatos - get    <br>
+Listar por Id   - get    <br>
+Cadastrar       - post   <br>
+Alterar         - Put    <br>
+Excluir         - delete <br>

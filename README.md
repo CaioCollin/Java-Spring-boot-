@@ -15,8 +15,8 @@ Prova Muralis desafio java / analista Desenvolvedor
 
 
 #### Dependências :
-Spring web 
-Spring data JPA
+Spring web /
+Spring data JPA /
 H2 database
 
 #### IDE :
@@ -31,8 +31,8 @@ Chave primária id , chave estrangeira da tabela contato que é passando pelo id
 H2 database 
 
 #### Funções:
-Listar Contatos - get    <br>
-Listar por Id   - get    <br>
-Cadastrar       - post   <br>
-Alterar         - Put    <br>
-Excluir         - delete <br>
+Get  : Listar Contatos  <br>
+Get  : Listar por Id    <br>
+Post : Cadastrar        <br>
+Put  : Alterar          <br>
+Delete : Excluir        <br>

@@ -13,3 +13,26 @@ Prova Muralis desafio java / analista Desenvolvedor
 ### H2 database
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/126752400/234698763-f180084d-6b1e-40ff-9ceb-00d3cad483f7.gif)
 
+
+#### Dependências :
+Spring web 
+Spring data JPA
+H2 database
+
+#### IDE :
+eclipse
+Spring Tool suite 4
+
+#### Tabelas : Contato , Cliente
+#### Tabela Cliente :
+Chave primária id , chave estrangeira da tabela contato que é passando pelo id .
+
+#### Banco de dados :
+H2 database 
+
+#### Funções:
+Listar Contatos - get 
+Listar por Id - get
+Cadastrar - post 
+Alterar - Put 
+Excluir - delete
